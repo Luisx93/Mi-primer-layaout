@@ -30,7 +30,7 @@ header nav ul li a{ /*estilo a los elementos a*/
 header nav ul li a:hover{ /*la pseudoclase :hover,generalmente se activa cuando el usuario se desplaza sobre un elemento con el cursor (puntero del mouse).*/
     background:#75ACEC;  
 }
-/*Fin de la edición del header*/
+/*---------------HEADER------------------*/
 
 .main .articles{
     width: 68.5%;
@@ -44,7 +44,7 @@ header nav ul li a:hover{ /*la pseudoclase :hover,generalmente se activa cuando 
 }
 aside{
     width: 30%;
-    background:#ff8000;
+    background: #D7EAFA;
     float: left;
     padding: 20px;
     box-sizing: border-box;
@@ -56,4 +56,4 @@ footer{
     padding: 10px 0px;
     text-align: center;
 }
-/*Fin de la edición del main*/
+/*----------------MAIN----------------------*/
